@@ -1,0 +1,32 @@
+# 📈 Stock Portfolio Tracker - CodeAlpha Internship
+
+A simple Stock Portfolio Tracker developed using Python as part of the CodeAlpha Python Programming Internship.
+---
+## 📌 Project Description
+
+This project allows users to:
+- Enter stock names and quantity
+- Calculate total investment value
+- Save portfolio summary into a text file
+---
+## 🚀 Features
+
+- User input handling
+- Predefined stock prices
+- Investment calculation
+- File handling using `.txt`
+- Console-based application
+---
+## 🛠️ Technologies Used
+
+- Python
+- VS Code
+---
+
+## 📚 Concepts Used
+
+- Dictionary
+- Loops
+- Conditional Statements
+- File Handling
+- Input/Output Operations
